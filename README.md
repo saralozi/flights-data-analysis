@@ -4,14 +4,14 @@
 This project explores the classic Flights dataset to analyze passenger trends between 1949 and 1960.  
 The analysis focuses on understanding long-term growth, seasonal patterns, and year-over-year changes through visual and statistical exploration.
 
-## 🎯 Objectives
+## Objectives
 - Understand the structure of the dataset  
 - Analyze trends and seasonal patterns  
 - Compute annual growth metrics  
 - Visualize insights clearly and effectively  
 - Summarize key findings from the data  
 
-## 📘 What We Learned — Key Insights
+## What We Learned — Key Insights
 
 ### 1. Steady Long-Term Growth  
 Passenger numbers increased consistently throughout 1949–1960, showing the rapid expansion of commercial aviation.
