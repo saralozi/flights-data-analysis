@@ -25,7 +25,7 @@ Growth metrics and trend lines confirmed a clear upward trajectory, not random f
 ### 4. Seasonal Variability + Trend Explain the Full Story  
 Month-to-month variability combined with multi-year growth offers a complete picture of air-travel demand during this period.
 
-## 🛠 Technologies Used
+## Technologies Used
 Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook
 
 ## How to Run
